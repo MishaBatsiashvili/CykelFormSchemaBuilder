@@ -1,0 +1,31 @@
+{
+  "runnables": [
+    {
+      "path": "123",
+      "type": "initial",
+      "inputs": [
+        {
+          "name": "123",
+          "label": "123",
+          "type": "textarea",
+          "required": false,
+          "description": "",
+          "outputKey": ""
+        }
+      ]
+    },
+    {
+      "path": "123",
+      "type": "secondary",
+      "inputs": [
+        {
+          "name": "123123",
+          "label": "123123",
+          "type": "textarea",
+          "required": false,
+          "description": ""
+        }
+      ]
+    }
+  ]
+}

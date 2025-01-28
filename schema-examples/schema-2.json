@@ -1,0 +1,74 @@
+{
+  "runnables": [
+    {
+      "path": "123",
+      "type": "initial",
+      "inputs": [
+        {
+          "name": "123",
+          "type": "dropdown",
+          "label": "123",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": ""
+        },
+        {
+          "name": "slider",
+          "type": "slider",
+          "label": "slider",
+          "description": "",
+          "required": false,
+          "min": 0,
+          "max": 10,
+          "step": 1,
+          "outputKey": "slider"
+        },
+        {
+          "name": "textarea",
+          "type": "textarea",
+          "label": "textarea",
+          "description": "",
+          "required": true,
+          "options": [],
+          "outputKey": "textarea"
+        },
+        {
+          "name": "toggle",
+          "type": "toggle",
+          "label": "toggle",
+          "description": "",
+          "required": false,
+          "outputKey": "toggle"
+        },
+        {
+          "name": "ResetAction",
+          "type": "action",
+          "label": "Reset",
+          "description": "",
+          "required": false,
+          "actionType": "reset",
+          "outputKey": ""
+        },
+        {
+          "name": "output",
+          "type": "output",
+          "label": "output",
+          "description": "",
+          "required": false,
+          "calculationSource": {
+            "inputName": "slider",
+            "transform": "multiply",
+            "value": 2
+          }
+        }
+      ]
+    }
+  ]
+}

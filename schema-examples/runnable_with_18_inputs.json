@@ -1,0 +1,280 @@
+{
+  "runnables": [
+    {
+      "path": "path_with_19_inputs",
+      "type": "initial",
+      "inputs": [
+        {
+          "name": "input_1",
+          "type": "dropdown",
+          "label": "Label 1",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_1"
+        },
+        {
+          "name": "input_2",
+          "type": "dropdown",
+          "label": "Label 2",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_2"
+        },
+        {
+          "name": "input_3",
+          "type": "dropdown",
+          "label": "Label 3",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_3"
+        },
+        {
+          "name": "input_4",
+          "type": "dropdown",
+          "label": "Label 4",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_4"
+        },
+        {
+          "name": "input_5",
+          "type": "dropdown",
+          "label": "Label 5",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_5"
+        },
+        {
+          "name": "input_6",
+          "type": "dropdown",
+          "label": "Label 6",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_6"
+        },
+        {
+          "name": "input_7",
+          "type": "dropdown",
+          "label": "Label 7",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_7"
+        },
+        {
+          "name": "input_8",
+          "type": "dropdown",
+          "label": "Label 8",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_8"
+        },
+        {
+          "name": "input_9",
+          "type": "dropdown",
+          "label": "Label 9",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_9"
+        },
+        {
+          "name": "input_10",
+          "type": "dropdown",
+          "label": "Label 10",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_10"
+        },
+        {
+          "name": "input_11",
+          "type": "dropdown",
+          "label": "Label 11",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_11"
+        },
+        {
+          "name": "input_12",
+          "type": "dropdown",
+          "label": "Label 12",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_12"
+        },
+        {
+          "name": "input_13",
+          "type": "dropdown",
+          "label": "Label 13",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_13"
+        },
+        {
+          "name": "input_14",
+          "type": "dropdown",
+          "label": "Label 14",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_14"
+        },
+        {
+          "name": "input_15",
+          "type": "dropdown",
+          "label": "Label 15",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_15"
+        },
+        {
+          "name": "input_16",
+          "type": "dropdown",
+          "label": "Label 16",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_16"
+        },
+        {
+          "name": "input_17",
+          "type": "dropdown",
+          "label": "Label 17",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_17"
+        },
+        {
+          "name": "input_18",
+          "type": "dropdown",
+          "label": "Label 18",
+          "description": "",
+          "required": true,
+          "options": [
+            {
+              "value": "1",
+              "label": "1"
+            }
+          ],
+          "actionType": "",
+          "outputKey": "output_18"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "runnables": [
+    {
+      "type": "initial",
+      "path": "/forms/contact",
+      "inputs": [
+        {
+          "name": "123",
+          "label": "123",
+          "type": "dropdown",
+          "required": true,
+          "description": "",
+          "options": [
+            {
+              "label": "1",
+              "value": "1"
+            },
+            {
+              "label": "2",
+              "value": "2"
+            }
+          ],
+          "actionType": ""
+        },
+        {
+          "name": "slider",
+          "label": "slider",
+          "type": "slider",
+          "required": false,
+          "description": "",
+          "min": 0,
+          "max": 100,
+          "step": 1
+        },
+        {
+          "name": "double-slider-value",
+          "label": "double slider value",
+          "type": "output",
+          "required": false,
+          "options": [],
+          "description": "",
+          "calculationSource": {
+            "inputName": "slider",
+            "transform": "multiply",
+            "value": 2
+          }
+        },
+        {
+          "name": "text",
+          "label": "text",
+          "type": "textarea",
+          "required": true,
+          "description": ""
+        },
+        {
+          "name": "on-off",
+          "label": "On or Off",
+          "type": "toggle",
+          "required": false,
+          "description": ""
+        },
+        {
+          "name": "CalculateAction",
+          "label": "Custom Reset Form",
+          "type": "action",
+          "required": false,
+          "description": "",
+          "actionType": "reset"
+        }
+      ]
+    }
+  ]
+}
